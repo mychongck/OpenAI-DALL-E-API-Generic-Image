@@ -1,3 +1,5 @@
+Code By: CK Chong (mychongck@gmail.com)
+
 To use the DALL-E API to generate and display an image, you'll need to follow these steps:
 
 Step 1: Install the OpenAI Python library
