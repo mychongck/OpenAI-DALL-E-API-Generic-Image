@@ -5,7 +5,6 @@ To use the DALL-E API to generate and display an image, you'll need to follow th
 Step 1: Install the OpenAI Python library
 Make sure you have the latest version of the OpenAI library installed:
 pip install openai
-python复制代码
 
 Step 2: Set up your OpenAI API key
 You need to have an OpenAI account and obtain an API key from the OpenAI dashboard.
