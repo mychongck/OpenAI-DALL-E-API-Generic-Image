@@ -18,6 +18,7 @@ Here's a complete example:
 	
 	def generate_image(description):
 	response = openai.Image.create(
+ 	model='dall-e-3',
 	prompt=description,
 	n=1,
 	size="1024x1024"
