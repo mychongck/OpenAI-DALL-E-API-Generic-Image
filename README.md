@@ -34,7 +34,7 @@ Here's a complete example:
 	# Set your OpenAI API key here
 	openai.api_key = 'your_openai_api_key_here'
 	
-	description = "a portrait of a pretty lady with detailed features, realistic style"
+	description = "a portrait of a pretty cyborg lady with detailed features, realistic style"
 	image_url = generate_image(description)
 	print(f"Generated image URL: {image_url}")
 	
