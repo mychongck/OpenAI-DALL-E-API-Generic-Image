@@ -21,7 +21,7 @@ def display_image(image_url):
 def main():
     # Set your OpenAI API key here
     openai.api_key = 'Your OpenAI API Key'          # Replace with your OpenAI API Key
-    description = "an realistic image of pretty asian lady with detailed features, realistic style"
+    description = "an realistic image of pretty cyborg lady with detailed features, realistic style"
     image_url = generate_image(description)
     print(f"Generated image URL: {image_url}")
     display_image(image_url)
